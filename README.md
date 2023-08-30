@@ -17,6 +17,11 @@
    </a>
 </p>
 
+<p align="center">
+   "The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one." - Fred Brooks
+</p>
+
+
 <h1 align="center">💻 Software, Databases, cloud hosting and tools</h1>
 
 <p align="center">
