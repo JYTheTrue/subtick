@@ -6,7 +6,7 @@
    </a>
 </p>
 
-<h1 align="center">👨‍💻 Programming languages</h1>
+<h1 align="center">👨‍💻 Ex-Programming languages</h1>
 <p align="center">
    <a href="/#"><img alt="Ex-JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 </p>
