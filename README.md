@@ -1,40 +1,45 @@
-<h1 align="center">Hi, I'm subtick 👋</h1>
-<div align="center">
-  <a href="https://github.com/JYTheTrue/">
-     <img  src="https://github.com/JYTheTrue/subtick/blob/main/quote.svg" alt="snake" />
-  </a>
-</div>
-<p align="center">
-   <a href="https://discord.com/users/631594371527213056">
-      <img src="https://lanyard.cnrad.dev/api/631594371527213056?animated=true" />
-   </a>
-</p>
+<svg width="900" height="350" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="900" height="350" fill="none" />
 
-<h1 align="center">👨‍💻 Ex-Programming languages</h1>
-<p align="center">
-   <a href="/#"><img alt="Ex-JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
-</p>
-
-<p align="center">
-   <a href="https://github.com/JYTheTrue">
-      <img align="center" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=gruvbox" alt="Quote" />
-   </a>
-</p>
-
-<p align="center">
-   "Have I already tell you what the definition of insanity is? Insanity is if one makes the same shit again and again and expects something changes. This is crazy." - Vaas Montenegro 30.11.2012
-</p>
-
-
-<h1 align="center">💻 Software and Database</h1>
-
-<p align="center">
-    <a href="https://visualstudio.microsoft.com/"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
-    <a href="https://git-scm.com/"><img alt="Ex-Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
-</p>
-
-<div align="center">
-  <a href="https://github.com/JYTheTrue/">
-     <img  src="https://github.com/JYTheTrue/subtick/blob/main/grid-snake.svg" alt="snake" />
-  </a>
-</div>
+  <line x1="10" y1="100" x2="890" y2="100" stroke="green" stroke-width="1" opacity="0.5">
+    <animate attributeName="opacity" from="0.5" to="1" dur="0.3s" begin="0s" fill="freeze" repeatCount="indefinite" />
+  </line>
+  
+  <text x="10" y="130" font-family="Courier New, monospace" font-size="12" fill="green" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="1.5s" begin="0s" fill="freeze" />
+    Have I already told you what the definition of insanity is?
+    <animate attributeName="opacity" from="1" to="0" dur="1s" begin="5s" fill="freeze" />
+  </text>
+  
+  <text x="210" y="130" font-family="Courier New, monospace" font-size="12" fill="green" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="1.5s" begin="6s" fill="freeze" />
+    Insanity is if one makes the same thing again and again and expects something to change.
+    <animate attributeName="opacity" from="1" to="0" dur="1s" begin="11s" fill="freeze" />
+  </text>
+  
+  <text x="410" y="130" font-family="Courier New, monospace" font-size="12" fill="green" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="1.5s" begin="12s" fill="freeze" />
+    This is crazy.
+    <animate attributeName="opacity" from="1" to="0" dur="1s" begin="15s" fill="freeze" />
+  </text>
+  
+  <text x="10" y="200" font-family="Courier New, monospace" font-size="18" fill="green" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="1s" begin="17s" fill="freeze" />
+    - Vaas Montenegro 30.11.2012
+    <animate attributeName="opacity" from="1" to="0" dur="1s" begin="21s" fill="freeze" />
+    <animate attributeName="opacity" from="0" to="1" dur="1.5s" begin="22s" fill="freeze" repeatCount="indefinite" />
+    <animate attributeName="opacity" from="1" to="0" dur="1s" begin="29.5s" fill="freeze" repeatCount="indefinite" />
+  </text>
+  
+  <text x="10" y="200" font-family="Courier New, monospace" font-size="18" fill="green" opacity="0">
+    <animate attributeName="opacity" from="0" to="1" dur="1s" begin="31s" fill="freeze" />
+    - Vaas Montenegro 30.11.2012
+    <animate attributeName="opacity" from="1" to="0" dur="1s" begin="35s" fill="freeze" />
+  </text>
+  
+  <!-- "Made by Jay" Text -->
+  <text x="10" y="330" font-family="Arial, sans-serif" font-size="24" fill="green" font-weight="bold" text-decoration="underline">
+    <animate attributeName="opacity" from="0" to="1" dur="1s" begin="37s" fill="freeze" />
+    <animate attributeName="opacity" from="1" to="0" dur="1s" begin="41s" fill="freeze" />
+  </text>
+</svg>
