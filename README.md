@@ -1,5 +1,9 @@
 <h1 align="center">Hi, I'm subtick 👋</h1>
-
+<div align="center">
+  <a href="https://github.com/JYTheTrue/">
+     <img  src="https://github.com/JYTheTrue/subtick/blob/main/quote.svg" alt="snake" />
+  </a>
+</div>
 <p align="center">
    <a href="https://discord.com/users/631594371527213056">
       <img src="https://lanyard.cnrad.dev/api/631594371527213056?animated=true" />
@@ -31,6 +35,6 @@
 
 <div align="center">
   <a href="https://github.com/JYTheTrue/">
-     <img  src="https://github.com/KidusTV/KidusTV/blob/main/grid-snake.svg" alt="snake" />
+     <img  src="https://github.com/JYTheTrue/subtick/blob/main/grid-snake.svg" alt="snake" />
   </a>
 </div>
