@@ -6,12 +6,10 @@
    </a>
 </p>
 
-
 <h1 align="center">👨‍💻 Programming languages</h1>
 <p align="center">
    <a href="/#"><img alt="Ex-JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?logo=javascript&logoColor=black"></a>
 </p>
-
 
 <p align="center">
    <a href="https://github.com/JYTheTrue">
@@ -28,9 +26,8 @@
     <a href="https://git-scm.com/"><img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?logo=git&logoColor=white"></a>
 </p>
 
-
 <div align="center">
-  <a href="https://github.com/KidusTV/">
+  <a href="https://github.com/JYTheTrue/">
      <img  src="https://github.com/KidusTV/KidusTV/blob/main/grid-snake.svg" alt="snake" />
   </a>
 </div>
