@@ -27,12 +27,11 @@
     <animate attributeName="opacity" from="0" to="1" dur="1s" begin="17s" fill="freeze" />
     - Vaas Montenegro 30.11.2012
     <animate attributeName="opacity" from="1" to="0" dur="1s" begin="21s" fill="freeze" />
-    <animate attributeName="opacity" from="0" to="1" dur="1.5s" begin="22s" fill="freeze" repeatCount="indefinite" />
-    <animate attributeName="opacity" from="1" to="0" dur="1s" begin="29.5s" fill="freeze" repeatCount="indefinite" />
   </text>
   
   <text x="10" y="330" font-family="Arial, sans-serif" font-size="24" fill="green" font-weight="bold" text-decoration="underline" opacity="0">
     <animate attributeName="opacity" from="0" to="1" dur="1s" begin="21s" fill="freeze" />
+	- Made By Jay
     <animate attributeName="opacity" from="1" to="0" dur="1s" begin="25s" fill="freeze" />
   </text>
 </svg>
