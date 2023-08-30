@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-   "The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one." - Fred Brooks
+   "Have I already tell you what the definition of insanity is? Insanity is if one makes the same shit again and again and expects something changes. This is crazy." - Vaas Montenegro 30.11.2012
 </p>
 
 
