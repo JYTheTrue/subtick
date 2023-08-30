@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Kidus 👋</h1>
+<h1 align="center">Hi, I'm subtick 👋</h1>
 
 <p align="center">
-   <a href="https://discord.com/users/522126315780964393">
+   <a href="https://discord.com/users/631594371527213056">
       <img src="https://lanyard.cnrad.dev/api/631594371527213056?animated=true" />
    </a>
 </p>
