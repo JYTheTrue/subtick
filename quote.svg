@@ -1,5 +1,5 @@
-<svg width="900" height="350" xmlns="http://www.w3.org/2000/svg">
-  <rect x="0" y="0" width="900" height="350" fill="none" />
+<svg width="900" height="450" xmlns="http://www.w3.org/2000/svg">
+  <rect x="0" y="0" width="900" height="450" fill="none" />
 
   <line x1="10" y1="100" x2="890" y2="100" stroke="green" stroke-width="1" opacity="0.5">
     <animate attributeName="opacity" from="0.5" to="1" dur="0.3s" begin="0s" fill="freeze" repeatCount="indefinite" />
@@ -33,5 +33,9 @@
     <animate attributeName="opacity" from="0" to="1" dur="1s" begin="21s" fill="freeze" />
 	- Made By Jay
     <animate attributeName="opacity" from="1" to="0" dur="1s" begin="25s" fill="freeze" />
+  </text>
+  
+  <text x="10" y="380" font-family="Arial, sans-serif" font-size="36" fill="black" font-weight="bold" text-decoration="underline">
+    RELOAD THE PAGE TO READ THE QUOTE AGAIN
   </text>
 </svg>
